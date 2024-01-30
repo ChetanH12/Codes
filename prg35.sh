@@ -20,3 +20,4 @@ fi
 
 #end of the script
 #end of the program it will execute
+echo "Added new line"
